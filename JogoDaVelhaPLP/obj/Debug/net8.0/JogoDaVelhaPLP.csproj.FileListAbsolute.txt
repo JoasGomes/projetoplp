@@ -1,0 +1,14 @@
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\bin\Debug\net8.0\JogoDaVelhaPLP.exe
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\bin\Debug\net8.0\JogoDaVelhaPLP.deps.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\bin\Debug\net8.0\JogoDaVelhaPLP.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\bin\Debug\net8.0\JogoDaVelhaPLP.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\bin\Debug\net8.0\JogoDaVelhaPLP.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\JogoDaVelhaPLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\JogoDaVelhaPLP.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\JogoDaVelhaPLP.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\JogoDaVelhaPLP.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\JogoDaVelhaPLP.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\refint\JogoDaVelhaPLP.dll
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\JogoDaVelhaPLP.pdb
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\JogoDaVelhaPLP.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Área de Trabalho\projeto-c#\JogoDaVelhaPLP\obj\Debug\net8.0\ref\JogoDaVelhaPLP.dll
